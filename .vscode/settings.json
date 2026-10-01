@@ -1,0 +1,13 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
+
+st.title("streamlit Demo")
+
+st.write("This is plain text.")
+
+st.markdown("This is **bold**, this is *italic*,this is :blue [coloured.]")
+
+st.writer("you can also include a divider.")
+
+st.divider()
